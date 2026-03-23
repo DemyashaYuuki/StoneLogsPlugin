@@ -1,0 +1,6 @@
+name: StoneLogs
+version: 1.0.0
+main: me.demyasha.stonelogs.StoneLogsPlugin
+description: Makes logs mine like stone while axes still speed the process up.
+author: Demyasha
+api-version: '1.21.8'
